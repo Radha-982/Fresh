@@ -1,0 +1,119 @@
+{
+    "Declaration": {
+      "Block Type": "Declaration",
+      "Features": "",
+      "Full-Inner": "",
+      "LinesOfCode": "",
+      "CodeBlock": "",
+      "English": "",
+      "Template-1": "##Initialize variables like ###variables### for performing functionality"
+    },
+    "Transformations": {
+      "Block Type": "Transformations",
+      "Features": "",
+      "Full-Inner": "",
+      "LinesOfCode": "",
+      "CodeBlock": "",
+      "English": "",
+      "Template-1": "##Perform transformation for ###action###"
+    },
+    "Calls/Triggers": {
+      "Block Type": "Calls/Triggers",
+      "Features": "",
+      "Full-Inner": "",
+      "LinesOfCode": "",
+      "CodeBlock": "",
+      "English": "",
+      "Template-1": "##Trigger Function '###function###' with parameters"
+    },
+    "For Loop": {
+      "Block Type": "For Loop",
+      "Features": "",
+      "Full-Inner": "",
+      "LinesOfCode": "",
+      "CodeBlock": "",
+      "English": "",
+      "Template-1": "##Repeat action till ###iterator### completes"
+    },
+    "While": {
+      "Block Type": "While",
+      "Features": "",
+      "Full-Inner": "",
+      "LinesOfCode": "",
+      "CodeBlock": "",
+      "English": "",
+      "Template-1": "##Repeat action till ###iterator### completes"
+    },
+    "If": {
+      "Block Type": "If",
+      "Features": "",
+      "Full-Inner": "",
+      "LinesOfCode": "",
+      "CodeBlock": "",
+      "English": "",
+      "Template-1": "##Use conditional statement on parameters/check the options"
+    },
+    "Functions": {
+      "Block Type": "Functions",
+      "Features": "",
+      "Full-Inner": "",
+      "LinesOfCode": "",
+      "CodeBlock": "",
+      "English": "",
+      "Template-1": "##Defining a function with name ######"
+    },
+    "Classes": {
+      "Block Type": "Classes",
+      "Features": "",
+      "Full-Inner": "",
+      "LinesOfCode": "",
+      "CodeBlock": "",
+      "English": "",
+      "Template-1": "##Defining  a class with name ####"
+    },
+    "Imports": {
+      "Block Type": "Imports",
+      "Features": "",
+      "Full-Inner": "",
+      "LinesOfCode": "",
+      "CodeBlock": "",
+      "English": "",
+      "Template-1": "##Import the required libraries"
+    },
+    "Print": {
+      "Block Type": "Print",
+      "Features": "",
+      "Full-Inner": "",
+      "LinesOfCode": "",
+      "CodeBlock": "",
+      "English": "",
+      "Template-1": "##Display the message"
+    },
+    "Try": {
+      "Block Type": "Try",
+      "Features": "",
+      "Full-Inner": "",
+      "LinesOfCode": "",
+      "CodeBlock": "",
+      "English": "",
+      "Template-1": "##To handle the exceptions raised during input/output"
+    },
+    "__init__/constructor": {
+      "Block Type": "__init__/constructor",
+      "Features": "",
+      "Full-Inner": "",
+      "LinesOfCode": "",
+      "CodeBlock": "",
+      "English": "",
+      "Template-1": "##Constructor to intialise the varibles ####"
+    },
+    "Method": {
+      "Block Type": "Method",
+      "Features": "",
+      "Full-Inner": "",
+      "LinesOfCode": "",
+      "CodeBlock": "",
+      "English": "",
+      "Template-1": "##Defining a method named #####"
+    }
+  }
